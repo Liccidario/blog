@@ -32,7 +32,7 @@ about_widget_content = "La tecnologia anche per neofiti."
 # footer content
 footer_content = "La tecnologia anche per neofiti."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Licci Dario](https://liccidario.com/) & Developed By [Licci Dario](https://liccidario.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
@@ -57,7 +57,7 @@ button_link = "about/"
 # Advertise
 [advertisement]
 image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+link = "https://liccidario.com/"
 
 # cookies
 [cookies]
@@ -84,17 +84,17 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/liccidario"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/liccidario_com"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/pc_gaming_castellanza"
 
 [[social]]
 title = "github"
@@ -104,4 +104,4 @@ link = "#"
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/dario-licci/"
