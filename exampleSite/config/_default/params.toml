@@ -19,7 +19,7 @@ address = "Corso G.Matteotti 40 Castellanza 21053 (VA)"
 mobile = "329-18-63-012"
 email = "info@liccidario.com"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "netlify" # contact form works with https://formspree.io
 # search
 search = true
 
