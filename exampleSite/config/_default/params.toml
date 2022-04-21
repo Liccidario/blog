@@ -40,7 +40,7 @@ custom_script= ""
 
 # Preloader
 [preloader]
-enable = false
+enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 # Banner
