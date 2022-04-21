@@ -25,7 +25,7 @@ search = true
 
 # featured post title
 featured_post_title = "Post in primo piano"
-recent_post_title = "Recent Post"
+recent_post_title = "Post Recenti"
 mainSections = ["blog"]
 # about widget content
 about_widget_content = "La tecnologia anche per neofiti."
