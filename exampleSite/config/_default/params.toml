@@ -64,7 +64,7 @@ link = "https://liccidario.com/negozio"
 enable = true
 expire_days = 2
 content = "Questo sito utilizza i cookie. Continuando a utilizzare questo sito Web, acconsenti al loro utilizzo."
-button = "I Accetto"
+button = "Accetto"
 
 ######################## sidebar widgets #########################
 [widgets]
