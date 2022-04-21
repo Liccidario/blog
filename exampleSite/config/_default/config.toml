@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "https://demo.statichunt.com/geeky-hugo/"
-title = "DL| Informatica"
+title = "Geeky | Hugo Personal Blog Template"
 theme = "geeky-hugo"
-languageName = "Ita"
-languageCode = "Ita-it"
+languageName = "En"
+languageCode = "en-us"
 # post pagination
 paginate = "6"
 # post excerpt
