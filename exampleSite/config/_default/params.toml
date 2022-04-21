@@ -46,8 +46,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_large = "Ciao sono Dario Licci **!**"
+title_small = "aiuto Aziende e Privati ad risolvere problemi tecnologici "
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
