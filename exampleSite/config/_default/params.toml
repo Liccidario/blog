@@ -16,7 +16,7 @@ author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Corso G.Matteotti 40 Castellanza 21053 (VA)"
-mobile = "+393921863012"
+mobile = "329-18-63-012"
 email = "info@liccidario.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
