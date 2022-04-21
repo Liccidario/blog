@@ -57,7 +57,7 @@ button_link = "about/"
 # Advertise
 [advertisement]
 image = "images/promotion.png"
-link = "https://liccidario.com/"
+link = "https://liccidario.com/negozio"
 
 # cookies
 [cookies]
