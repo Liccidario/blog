@@ -46,11 +46,11 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-title_large = "Niente Stress, Veloccità, Prezzi Onesti **!**"
+title_large = "Niente Stress, Velocità, Prezzi Onesti **!**"
 title_small = "Fatti conigliare dai Professionisti "
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "Ciao sono Dario, aiuto Aziende e Privati nel mondo dell'informatica."
 button_label = "Scopri di più"
 button_link = "about/"
 
