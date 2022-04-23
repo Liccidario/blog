@@ -66,6 +66,3 @@ link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/webfont-loader/webfont-loader-2.js"
 
-
-custom_css = ["css/custom.css"]
-custom_js = ["js/custom.js"]
